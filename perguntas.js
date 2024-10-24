@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'time',
+    'qual e melhor time de futebol ',
+    'corintians'
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos'
+    'Brasil',
+    'Quem descobriu o Brasil',
+    'Os Indios'
 )
